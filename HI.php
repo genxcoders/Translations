@@ -6,7 +6,7 @@
     $t['view_site'] = 'साइट देखें';
     $t['logout'] = 'लॉग आउट';
     $t['javascript_msg'] = 'जावास्क्रिप्ट अक्षम है या आपके ब्राउज़र द्वारा समर्थित नहीं है।<br/>
-                            अपने ब्राउज़र को अपग्रेड या कृपया व्यवस्थापक पैनल का उपयोग करने के लिए <a title="Enable JavaScript in your browser" href="http://www.google.com/support/bin/answer.py?answer=23852"><b>जावास्क्रिप्ट सक्षम करें</b></a>';
+                            अपने ब्राउज़र को अपग्रेड या कृपया व्यवस्थापक पैनल का उपयोग करने के लिए <a title="ब्राउज़र में जावास्क्रिप्ट सक्षम करें" href="http://www.google.com/support/bin/answer.py?answer=23852"><b>जावास्क्रिप्ट सक्षम करें</b></a>';
     $t['add_new'] = 'नया जोडो';
     $t['add_new_page'] = 'नया पृष्ठ जोडो';
     $t['add_new_user'] = 'एक नया उपयोगकर्ता जोडो';
@@ -196,13 +196,13 @@
    $t['not_shown_in_menu'] = 'सूचि में नहीं दिखाया गया है';
    $t['leave_empty'] = 'पृष्ठ शीर्षक का उपयोग करने के लिए खाली छोड़ दो';
    $t['menu_link'] = 'सूचि को जोड़े ';
-   $t['link_url'] = 'This page points to the following location';
+   $t['link_url'] = 'यह पृष्ठ निम्न स्थान की ओर इशारा कर रहा है';
    $t['link_url_desc'] = 'खाली छोड़ा जा सकता है';
    $t['separate_window'] = 'अलग खिड़की में खोलें';
    $t['pointer_page'] = 'सूचक पृष्ठ';   
    $t['points_to_another_page'] = 'अन्य पृष्ठ पर इशारा करना';
    $t['points_to'] = 'इशारा करना';   
-   $t['redi ects'] = 'पुनर्निर्देश';
+   $t['redirects'] = 'पुनर्निर्देश';
    $t['masquerades'] = 'स्वांग बनाना';
    $t['strict_matching'] = 'नीचे दिए गए सधि के सभी पृष्ठों को चयनित निशान दे';
    $t['up'] = 'ऊपर ले जाएँ';
